@@ -20,4 +20,5 @@
 
 6. In a directory containing your clone of this repo, activate the ATM407 environment as was explained [here](https://github.com/MPOcanes/MPO624-2020/blob/master/CONDA_ENVIRONMENTS.md). Then, *from that ATM407 environment* launch `jupyter notebook`. A browser will pop up and you can navigate within it to open the .ipynb files in this repo. 
 
-test
+test2
+
